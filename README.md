@@ -1,7 +1,9 @@
 ☕ Coffee Machine Project
+
 Welcome to the Coffee Machine Project! This simple yet functional Python program simulates a coffee machine that serves delicious espresso, latte, and cappuccino. It's a great way to learn how to manage resources, handle user input, and work with conditional statements.
 
 🚀 Features
+
 Interactive Menu: The machine prompts users to choose between espresso, latte, and cappuccino.
 Resource Management: The machine checks if there are enough ingredients to make the selected drink.
 Transaction Handling: It calculates the cost, processes payments, and returns the appropriate change.
@@ -16,6 +18,7 @@ Check the Report: Enter "report" at the prompt to see the remaining water, milk,
 Turn Off: If you're the maintainer, type "off" to power down the machine.
 
 📚 Learnings
+
 This project was a fun way to practice:
 
 Working with dictionaries in Python.
